@@ -1,1 +1,2 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local 
+Asad Andres David
+Este proyecto es para crear un commit y clonarlo a mi escritorio
